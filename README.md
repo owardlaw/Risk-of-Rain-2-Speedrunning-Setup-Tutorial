@@ -10,4 +10,4 @@
 
 5. To play with a modded Huntress profile to do so download the profile from [here](https://www.speedrun.com/resourceasset/vhrnt). Next goto C:\Program Files (x86)\Steam\userdata\128818034\632360\remote\UserProfiles\ and find your profile. When updating your personal profile to the huntress profile it's important to keep the previous filename of your past profile. Copy the contents of the Huntress profile, remove the contents of your personal profile, and paste the contents of the huntress profile into your empty personal profile. Now launch the current patch of the game. After this launch you should be able to launch the downpatched version with the same Huntress profile. 
 
-6. More information can be found on (Ror2 Speedrunning)[https://www.speedrun.com/ror2/resources]. 
+6. More information can be found on [Ror2 Speedrunning](https://www.speedrun.com/ror2/resources). 
